@@ -30,7 +30,7 @@ import ChangePasswordController from './app/component/ChangePasswordController'
 
 ```
 <br>
-**<h1>Properties</h1>**
+<h1>Properties</h1>
 
 | Available properties | Type | Default Value | Required | Description |
 |--------------------------|------------------------|-------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ import ChangePasswordController from './app/component/ChangePasswordController'
 For bugs, questions and discussions please use the Github Issues.
 
 <br>
-**<h1>License</h1>**
+<h1>License</h1>
 
 Copyright (c) 2018 Intuz.
 <br><br>
@@ -54,7 +54,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 <br><br>
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**<h1></h1>**
+<h1></h1>
 <a href="http://www.intuz.com">
 <img src="Screenshots/logo.jpg">
 </a>
